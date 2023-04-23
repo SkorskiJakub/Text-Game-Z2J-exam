@@ -1,0 +1,7 @@
+You are looking around the office.
+On the tables you see:
+- key
+- flashlight
+- chair
+- crowbar
+You can take only two items to your backpack.

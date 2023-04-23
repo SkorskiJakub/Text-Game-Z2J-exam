@@ -1,0 +1,8 @@
+Using the crowbar, you are trying to open the window by destroying the lock.
+
+You succeed.
+The window opens, and you step out onto the balcony. 
+
+From there, you climb down a ladder and make it outside. 
+
+You have won the game.

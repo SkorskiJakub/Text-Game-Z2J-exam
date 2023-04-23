@@ -1,0 +1,6 @@
+Before you, there is a window. 
+When you look through it, you see a balcony, from which a ladder leads
+further down. However, the ladder is not long enough to reach the bottom,
+and at some point, you will have to jump. 
+To get to the balcony, you need to somehow break the window glass. 
+Look for an object that will come in handy.
